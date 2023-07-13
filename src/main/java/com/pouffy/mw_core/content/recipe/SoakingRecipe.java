@@ -1,8 +1,9 @@
 package com.pouffy.mw_core.content.recipe;
 
 import com.google.gson.JsonObject;
-import com.mojang.realmsclient.util.JsonUtils;
+
 import com.pouffy.mw_core.AllRecipes;
+import com.pouffy.mw_core.util.JsonUtils;
 import net.minecraft.core.BlockPos;
 import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.resources.ResourceLocation;
